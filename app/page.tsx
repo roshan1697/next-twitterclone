@@ -1,8 +1,10 @@
+import Header from "@/components/header";
 
 export default function Home() {
   return (
     <div>
-      twitter clone
+      <Header label="Home" />
+      
     </div>
   );
 }
